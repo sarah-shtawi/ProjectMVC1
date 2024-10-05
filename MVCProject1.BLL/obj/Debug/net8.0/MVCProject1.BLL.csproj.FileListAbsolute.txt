@@ -1,0 +1,15 @@
+C:\Users\توب نتن\OneDrive\Documents\full stack\Asp.net\MVC\Projects\MVCProject1\MVCProject1.BLL\bin\Debug\net8.0\MVCProject1.BLL.deps.json
+C:\Users\توب نتن\OneDrive\Documents\full stack\Asp.net\MVC\Projects\MVCProject1\MVCProject1.BLL\bin\Debug\net8.0\MVCProject1.BLL.dll
+C:\Users\توب نتن\OneDrive\Documents\full stack\Asp.net\MVC\Projects\MVCProject1\MVCProject1.BLL\bin\Debug\net8.0\MVCProject1.BLL.pdb
+C:\Users\توب نتن\OneDrive\Documents\full stack\Asp.net\MVC\Projects\MVCProject1\MVCProject1.BLL\bin\Debug\net8.0\MVCProject1.DAL.dll
+C:\Users\توب نتن\OneDrive\Documents\full stack\Asp.net\MVC\Projects\MVCProject1\MVCProject1.BLL\bin\Debug\net8.0\MVCProject1.DAL.pdb
+C:\Users\توب نتن\OneDrive\Documents\full stack\Asp.net\MVC\Projects\MVCProject1\MVCProject1.BLL\obj\Debug\net8.0\MVCProject1.BLL.csproj.AssemblyReference.cache
+C:\Users\توب نتن\OneDrive\Documents\full stack\Asp.net\MVC\Projects\MVCProject1\MVCProject1.BLL\obj\Debug\net8.0\MVCProject1.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\توب نتن\OneDrive\Documents\full stack\Asp.net\MVC\Projects\MVCProject1\MVCProject1.BLL\obj\Debug\net8.0\MVCProject1.BLL.AssemblyInfoInputs.cache
+C:\Users\توب نتن\OneDrive\Documents\full stack\Asp.net\MVC\Projects\MVCProject1\MVCProject1.BLL\obj\Debug\net8.0\MVCProject1.BLL.AssemblyInfo.cs
+C:\Users\توب نتن\OneDrive\Documents\full stack\Asp.net\MVC\Projects\MVCProject1\MVCProject1.BLL\obj\Debug\net8.0\MVCProject1.BLL.csproj.CoreCompileInputs.cache
+C:\Users\توب نتن\OneDrive\Documents\full stack\Asp.net\MVC\Projects\MVCProject1\MVCProject1.BLL\obj\Debug\net8.0\MVCProject1.BLL.csproj.CopyComplete
+C:\Users\توب نتن\OneDrive\Documents\full stack\Asp.net\MVC\Projects\MVCProject1\MVCProject1.BLL\obj\Debug\net8.0\MVCProject1.BLL.dll
+C:\Users\توب نتن\OneDrive\Documents\full stack\Asp.net\MVC\Projects\MVCProject1\MVCProject1.BLL\obj\Debug\net8.0\refint\MVCProject1.BLL.dll
+C:\Users\توب نتن\OneDrive\Documents\full stack\Asp.net\MVC\Projects\MVCProject1\MVCProject1.BLL\obj\Debug\net8.0\MVCProject1.BLL.pdb
+C:\Users\توب نتن\OneDrive\Documents\full stack\Asp.net\MVC\Projects\MVCProject1\MVCProject1.BLL\obj\Debug\net8.0\ref\MVCProject1.BLL.dll
